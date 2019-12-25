@@ -1,4 +1,7 @@
 # leepark.github.io
 This is a data science / statistics portfolio created by Lee Park
 
-Where is the change I made
+
+Hey, is this really working??
+
+I am not sure if this is really working.... 

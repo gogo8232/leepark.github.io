@@ -69,6 +69,11 @@ for r in range(1, (len(combined.columns)-1)):
     cmax = np.max(wiley[combined.iloc[:,r].name])
     combined.iloc[:,r] = np.round(100*combined.iloc[:,r]/cmax,2)
 
+
+
+
+
+
 # write it into csv
 combined.to_csv("result.csv")
 

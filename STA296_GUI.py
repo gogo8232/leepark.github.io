@@ -26,7 +26,6 @@ class OOP():
         self.win.title("STA296 Calculator")
         self.null_value = "           "
         self.tabs()
-        self.win.iconbitmap('C:\\Users\\Lee Sak Park\\Documents\\GitHub\\leepark.github.io\\STA296\\UKY.ico')
 
 
 # =====================================

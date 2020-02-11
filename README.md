@@ -7,3 +7,7 @@ First of all, I made STA296_GUI to have a simple calculator for statistical anal
 I am now interested in writing a stock price analysis program, which will predict the price of Natural gas and trading analysis for UVXY.
 
 I trade options for both, so it is purely for safe and profitable option trading. 
+
+This is a collaborative project and my team is being testing the model; and hopefully profiting our of actual trading.
+
+The program is not open to public yet; however, if you want to look it up under the condition that you never share this with others, please contact me via email (lee.park@uky.edu)

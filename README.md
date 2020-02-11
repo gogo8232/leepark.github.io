@@ -16,3 +16,4 @@ Throughout the semester, I will work on modules on stochastic analysis, and hope
 I will upload this when it is complete and ready for use. If you want to look it up, please ask me for a copy via email.
 
 
+Note: the code named "wiley_to_canvas" is no longer in my interest. It was made to import gradebook from wiley plus canvas to uky canvas, but they are now integrated; hence creating a program for that is not meaningless. 
